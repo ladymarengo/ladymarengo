@@ -16,7 +16,7 @@ You can find some other various school projects in my [repositories](https://git
 
 ## Links
 
-- [Linkedin](https://www.linkedin.com/in/natalia-samoilova-471072200/)
+- [Linkedin](https://www.linkedin.com/in/natalia-samoilova-fi/)
 
 ## Other
 
