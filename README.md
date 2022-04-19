@@ -1,6 +1,4 @@
-# Natalia Samoilova
-
-![ferris](https://user-images.githubusercontent.com/7702253/164019339-a25339d7-262e-42b8-9d11-b9645d3ca934.gif)
+# ![ferris](https://user-images.githubusercontent.com/7702253/164019339-a25339d7-262e-42b8-9d11-b9645d3ca934.gif)
 
 Hi! I'm a Hive Helsinki student. I am learning C in Hive, coding in Rust in my free time and also I have some Python experience.
 
