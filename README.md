@@ -44,6 +44,3 @@ I'm still learning so hopefully new projects in C++ coming soon.
 ## Other
 
 I am looking for a trainee or junior position in Finland.
-
-## Fun fact
-My cat's name is Dennis Ritchie.
