@@ -28,6 +28,7 @@ For more convenient navigation through my repositories you can check these lists
 
 #### C++
 - [Minesweeper](https://github.com/ladymarengo/minesweeper)
+
 I'm still learning so hopefully new projects in C++ coming soon.
 
 #### C
