@@ -5,7 +5,7 @@ Hi! I'm a Hive Helsinki student. I am learning C in Hive, coding in Rust and C++
 I like to make games in my free time because it's a nice way to learn new things and polish existing skills while having fun. During various game jams and other projects I've tried different languages (Rust, C++, C, Javascript) and collaborated with interesting people. Also I practiced art skills from my previous education by creating almost all assets. Here is a couple of these games:
 
 - [Crazy Cats](https://github.com/ladymarengo/ludum-dare-50) solo for Ludum Dare 50 in Rust.
-- [Minesweeper](https://github.com/ladymarengo/biocareerman-2) solo classic game implementation in C++ with SDL
+- [Minesweeper](https://github.com/ladymarengo/minesweeper) solo classic game implementation in C++ with SDL
 - [BioCareerMan2](https://github.com/ladymarengo/biocareerman-2) team project in Rust for the 2nd Hive Helsinki Game Jam
 - [No Way Out?](https://github.com/IanGaplichnik/GameJam) collab with my Hive teammates in JS for Hive Helsinki Game Jam.
 - [Brave Crab](https://github.com/ladymarengo/bevy-game-jam) collab with my friends in Rust for the Bevy Game Jam.
