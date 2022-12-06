@@ -40,7 +40,3 @@ I'm still learning so hopefully new projects in C++ coming soon.
 ## Links
 
 - [Linkedin](https://www.linkedin.com/in/natalia-samoilova-fi/)
-
-## Other
-
-I am looking for a trainee or junior position in Finland.
