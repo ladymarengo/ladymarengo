@@ -6,6 +6,7 @@ I like to make games in my free time because it's a nice way to learn new things
 
 - [Crazy Cats](https://github.com/ladymarengo/ludum-dare-50) solo for Ludum Dare 50 in Rust.
 - [Harvest](https://github.com/samoylovfp/ludum_52_harvest) team project for Ludum Dare 52 in Rust.
+- [BLASIC](https://github.com/samoylovfp/bevy-jam-3/) 3D game with my friends in Rust for the Bevy Game Jam 3.
 - [Minesweeper](https://github.com/ladymarengo/minesweeper) solo classic game implementation in C++ with SDL
 - [BioCareerMan2](https://github.com/ladymarengo/biocareerman-2) team project in Rust for the 2nd Hive Helsinki Game Jam
 - [No Way Out?](https://github.com/IanGaplichnik/GameJam) collab with my Hive teammates in JS for Hive Helsinki Game Jam.
@@ -19,6 +20,8 @@ For more convenient navigation through my repositories you can check these lists
 
 #### Rust
 - [Ludum Dare 50](https://github.com/ladymarengo/ludum-dare-50)
+- [Bevy Game Jam 3](https://github.com/samoylovfp/bevy-jam-3)
+- [Ludum Dare 52](https://github.com/samoylovfp/ludum_52_harvest)
 - [Bevy Game Jam](https://github.com/ladymarengo/bevy-game-jam)
 - [Lem-in map tool](https://github.com/jmtuulos/Lem-in-beautymapper)
 - [Hive Helsinki Game Jam 2](https://github.com/ladymarengo/biocareerman-2)
