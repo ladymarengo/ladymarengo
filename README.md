@@ -4,7 +4,7 @@ Hi! I'm a programmer from Finland. I work as embedded software developer with C+
 
 I like to make games in my free time because it's a nice way to learn new things and polish existing skills while having fun. During various game jams and other projects I've tried different languages (Rust, C++, C#, C, Javascript) and collaborated with interesting people. Also I practiced art skills from my previous education by creating almost all assets. Here is a couple of these games:
 
-- [Mergerration](https://github.com/ladymarengo/acerola_jam)
+- [Mergerration](https://github.com/ladymarengo/acerola_jam) solo for Acerola Game Jam in Rust.
 - [Crazy Cats](https://github.com/ladymarengo/ludum-dare-50) solo for Ludum Dare 50 in Rust.
 - [Harvest](https://github.com/samoylovfp/ludum_52_harvest) team project for Ludum Dare 52 in Rust.
 - [BLASIC](https://github.com/samoylovfp/bevy-jam-3/) 3D game with my friends in Rust for the Bevy Game Jam 3.
